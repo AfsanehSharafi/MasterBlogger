@@ -2,6 +2,7 @@
 using Application.Contracts.Article;
 using Application.Contracts.ArticleCategory;
 using Domain.ArticleAgg;
+using Domain.ArticleAgg.Services;
 using Domain.ArticleCategoryAgg;
 using Domain.ArticleCategoryAgg.Services;
 using Infrastructure.EfCore.Repositories;
@@ -21,9 +22,13 @@ namespace Infrastructure.EfCore
         {
             services.AddTransient<IArticleCategoryApplication, ArticleCategoryApplication>();
             services.AddTransient<IArticleCategoryRepository, ArticleCategoryRepository>();
+            services.AddTransient<IArticleCategoryValidatorService, ArticleCategoryValidatorService>();
+
+
             services.AddTransient<IArticleApplication,ArticleApplication>();
             services.AddTransient<IArticleRepository, ArticleRepository>();
-            services.AddTransient<IArticleCategoryValidatorService, ArticleCategoryValidatorService>();
+            services.AddTransient<IArticleValidatorService, ArticleValidatorService>();
+
             services.AddDbContext<MasterBloggerContext>(options => options.UseSqlServer(ConnectionString));
 
 
