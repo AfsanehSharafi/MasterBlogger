@@ -16,9 +16,17 @@ namespace Application
             _articleRepository = articleRepository;
         }
 
+
         public List<ArticleViewModel> GetList()
         {
             return _articleRepository.GetList();
         }
+
+        public void Create(CreateArticle command)
+        {
+            var article = new Article(command.Title, command.ShortDescription, command.Image, command.Content, command.ArticleCategoryId);
+            _articleRepository.CreateAndSave(article);
+        }
+
     }
 }

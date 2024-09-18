@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Projects\\MasterBlogger\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A22CDD1-DE24-4560-BA2F-817DC2F665BB}|Domain\\Domain.csproj|c:\\projects\\masterblogger\\domain\\articleagg\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A22CDD1-DE24-4560-BA2F-817DC2F665BB}|Domain\\Domain.csproj|solutionrelative:domain\\articleagg\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|c:\\projects\\masterblogger\\presentation.mvccore\\presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|solutionrelative:presentation.mvccore\\presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378DFF92-1B6B-4D07-A9D3-5EA93D3228F8}|Application\\Application.csproj|c:\\projects\\masterblogger\\application\\articleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378DFF92-1B6B-4D07-A9D3-5EA93D3228F8}|Application\\Application.csproj|solutionrelative:application\\articleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|c:\\projects\\masterblogger\\presentation.mvccore\\presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|solutionrelative:presentation.mvccore\\presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|c:\\projects\\masterblogger\\presentation.mvccore\\presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|solutionrelative:presentation.mvccore\\presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +39,71 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Domain\\ArticleAgg\\Article.cs",
+              "RelativeDocumentMoniker": "Domain\\ArticleAgg\\Article.cs",
+              "ToolTip": "C:\\Projects\\MasterBlogger\\Domain\\ArticleAgg\\Article.cs",
+              "RelativeToolTip": "Domain\\ArticleAgg\\Article.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAIwBgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:50:57.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticleApplication.cs",
+              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Application\\ArticleApplication.cs",
+              "RelativeDocumentMoniker": "Application\\ArticleApplication.cs",
+              "ToolTip": "C:\\Projects\\MasterBlogger\\Application\\ArticleApplication.cs",
+              "RelativeToolTip": "Application\\ArticleApplication.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:29:29.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Create.cshtml.cs",
+              "ToolTip": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Create.cshtml.cs",
+              "RelativeToolTip": "Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Create.cshtml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:18:01.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\ArticleManagement\\List.cshtml",
+              "RelativeDocumentMoniker": "Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\ArticleManagement\\List.cshtml",
+              "ToolTip": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\ArticleManagement\\List.cshtml",
+              "RelativeToolTip": "Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\ArticleManagement\\List.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T13:17:43.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Create.cshtml",
+              "RelativeDocumentMoniker": "Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Create.cshtml",
+              "ToolTip": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Create.cshtml",
+              "RelativeToolTip": "Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T13:17:42.566Z",
+              "EditorCaption": ""
             }
           ]
         }

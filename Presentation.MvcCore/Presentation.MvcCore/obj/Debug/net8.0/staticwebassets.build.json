@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DEKNIMkCKgJ96/C5bSjm1kjZ1QMJXF1L3RxtiOweE9I=",
+  "Hash": "S7DquCXjNQV+tc7mdqh7qPfg7x1mzEEM0vEoQVlBgik=",
   "Source": "Presentation.MvcCore",
   "BasePath": "_content/Presentation.MvcCore",
   "Mode": "Default",
@@ -414,6 +414,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\icons-reference\\styles.css"
+    },
+    {
+      "Identity": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\wwwroot\\img\\Autumn.jpg",
+      "SourceId": "Presentation.MvcCore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\wwwroot\\",
+      "BasePath": "_content/Presentation.MvcCore",
+      "RelativePath": "img/Autumn.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Autumn.jpg"
     },
     {
       "Identity": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\wwwroot\\img\\avatar-1.jpg",

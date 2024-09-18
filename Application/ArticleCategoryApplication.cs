@@ -73,7 +73,7 @@ namespace Application
 
         //public void Create(CreateArticleCategory command)
         //{
-        //    var articleCategory= new ArticleCategory(command.Title);
+        //    var articleCategory= new ArticleCategoryId(command.Title);
         //    _articleCategoryRepository.Add(articleCategory);
         //}
 

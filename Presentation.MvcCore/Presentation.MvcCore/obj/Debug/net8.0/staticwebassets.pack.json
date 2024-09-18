@@ -85,6 +85,10 @@
       "PackagePath": "staticwebassets\\icons-reference\\styles.css"
     },
     {
+      "Id": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\wwwroot\\img\\Autumn.jpg",
+      "PackagePath": "staticwebassets\\img\\Autumn.jpg"
+    },
+    {
       "Id": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\wwwroot\\img\\avatar-1.jpg",
       "PackagePath": "staticwebassets\\img\\avatar-1.jpg"
     },

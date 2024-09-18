@@ -21,7 +21,7 @@ namespace Domain.ArticleAgg
 
         public Article(string title, string shortDescription, string image, string content, long articleCategoryId)
         {
-            title = Title;
+            Title = title;
             ShortDescription = shortDescription;
             Image = image;
             Content = content;

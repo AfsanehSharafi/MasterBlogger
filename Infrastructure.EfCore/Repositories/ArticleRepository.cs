@@ -20,6 +20,8 @@ namespace Infrastructure.EfCore.Repositories
             _context = context;
         }
 
+
+
         public List<ArticleViewModel> GetList()
         {
             return _context.Articles.Include(x => x.ArticleCategory).Select(x => new ArticleViewModel
@@ -30,6 +32,12 @@ namespace Infrastructure.EfCore.Repositories
                 IsDeleted = x.IsDeleted,
                 CreationDate = x.CreationDate.ToString(CultureInfo.InvariantCulture)
             }).ToList();
+        }
+
+        public void CreateAndSave(Article entity)
+        {
+            _context.Articles.Add(entity);
+            _context.SaveChanges();
         }
     }
 }
