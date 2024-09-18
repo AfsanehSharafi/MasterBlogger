@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Projects\\MasterBlogger\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|c:\\projects\\masterblogger\\presentation.mvccore\\presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|solutionrelative:presentation.mvccore\\presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|c:\\projects\\masterblogger\\presentation.mvccore\\presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|solutionrelative:presentation.mvccore\\presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|c:\\projects\\masterblogger\\presentation.mvccore\\presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|solutionrelative:presentation.mvccore\\presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|c:\\projects\\masterblogger\\presentation.mvccore\\presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|solutionrelative:presentation.mvccore\\presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{378DFF92-1B6B-4D07-A9D3-5EA93D3228F8}|Application\\Application.csproj|c:\\projects\\masterblogger\\application\\articleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{378DFF92-1B6B-4D07-A9D3-5EA93D3228F8}|Application\\Application.csproj|solutionrelative:application\\articleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46A4B0BF-4D1A-4EAD-B483-0118138332C8}|Application.Contracts\\Application.Contracts.csproj|c:\\projects\\masterblogger\\application.contracts\\article\\iarticleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46A4B0BF-4D1A-4EAD-B483-0118138332C8}|Application.Contracts\\Application.Contracts.csproj|solutionrelative:application.contracts\\article\\iarticleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|c:\\projects\\masterblogger\\presentation.mvccore\\presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|solutionrelative:presentation.mvccore\\presentation.mvccore\\areas\\administrator\\pages\\articlemanagement\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,54 +38,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Edit.cshtml",
               "RelativeDocumentMoniker": "Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Edit.cshtml",
               "ToolTip": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Edit.cshtml",
               "RelativeToolTip": "Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Edit.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAMAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-18T17:21:17.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ArticleApplication.cs",
-              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Application\\ArticleApplication.cs",
-              "RelativeDocumentMoniker": "Application\\ArticleApplication.cs",
-              "ToolTip": "C:\\Projects\\MasterBlogger\\Application\\ArticleApplication.cs",
-              "RelativeToolTip": "Application\\ArticleApplication.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAnwC8AAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T17:10:54.924Z",
+              "WhenOpened": "2024-09-18T18:30:03.494Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IArticleApplication.cs",
-              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Application.Contracts\\Article\\IArticleApplication.cs",
-              "RelativeDocumentMoniker": "Application.Contracts\\Article\\IArticleApplication.cs",
-              "ToolTip": "C:\\Projects\\MasterBlogger\\Application.Contracts\\Article\\IArticleApplication.cs",
-              "RelativeToolTip": "Application.Contracts\\Article\\IArticleApplication.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T14:18:36.201Z",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Create.cshtml",
+              "RelativeDocumentMoniker": "Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Create.cshtml",
+              "ToolTip": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Create.cshtml",
+              "RelativeToolTip": "Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T18:30:01.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\ArticleManagement\\List.cshtml",
+              "RelativeDocumentMoniker": "Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\ArticleManagement\\List.cshtml",
+              "ToolTip": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\ArticleManagement\\List.cshtml",
+              "RelativeToolTip": "Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\ArticleManagement\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-18T18:29:44.662Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Edit.cshtml.cs",
-              "RelativeToolTip": "Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\ArticleManagement\\Edit.cshtml.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA1wBQAAAAJAAAA",
+              "Title": "List.cshtml.cs",
+              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\ArticleManagement\\List.cshtml.cs",
+              "RelativeDocumentMoniker": "Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\ArticleManagement\\List.cshtml.cs",
+              "ToolTip": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\ArticleManagement\\List.cshtml.cs",
+              "RelativeToolTip": "Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\ArticleManagement\\List.cshtml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA3wBEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T14:16:20.073Z",
+              "WhenOpened": "2024-09-18T18:26:56.26Z",
               "EditorCaption": ""
             }
           ]

@@ -16,5 +16,19 @@ namespace MvcCore.Areas.Administrator.Pages.ArticleManagement
         {
             Articles = _articleApplication.GetList();
         }
+
+        public RedirectToPageResult OnPostRemove(long Id)
+        {
+            _articleApplication.Remove(Id);
+            return RedirectToPage("./List");
+        }
+
+        public RedirectToPageResult OnPostActivate(long Id)
+        {
+            _articleApplication.Activate(Id);
+            return RedirectToPage("./List");
+        }
+
+
     }
 }
