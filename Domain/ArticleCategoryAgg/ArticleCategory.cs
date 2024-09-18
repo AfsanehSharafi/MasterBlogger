@@ -1,4 +1,5 @@
-﻿using Domain.ArticleCategoryAgg.Services;
+﻿using Domain.ArticleAgg;
+using Domain.ArticleCategoryAgg.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,6 +15,7 @@ namespace Domain.ArticleCategoryAgg
         public bool IsDeleted { get; private set; }
         public DateTime CreationDate { get; private set; }
 
+        public ICollection<Article> Articles { get; private set; }
         public ArticleCategory(string title, IArticleCategoryValidatorService validatorService)
         {
             GuardAgainstEmptyTitle(title);
@@ -21,6 +23,7 @@ namespace Domain.ArticleCategoryAgg
             Title =title;
             IsDeleted = false;
             CreationDate = DateTime.Now;
+            Articles= new List<Article>();
         }
 
         public void GuardAgainstEmptyTitle(string title)

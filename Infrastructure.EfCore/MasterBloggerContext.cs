@@ -1,4 +1,5 @@
-﻿using Domain.ArticleCategoryAgg;
+﻿using Domain.ArticleAgg;
+using Domain.ArticleCategoryAgg;
 using Infrastructure.EfCore.Mapping;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -11,6 +12,7 @@ namespace Infrastructure.EfCore
 {
     public class MasterBloggerContext:DbContext
     {
+        public DbSet<Article> Articles { get; set; }
         public DbSet<ArticleCategory> articleCategories {  get; set; }
         public MasterBloggerContext(DbContextOptions<MasterBloggerContext> options) :base(options)
         {
@@ -19,6 +21,7 @@ namespace Infrastructure.EfCore
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.ApplyConfiguration(new ArticleMapping());
             modelBuilder.ApplyConfiguration(new ArticleCategoryMapping());
             base.OnModelCreating(modelBuilder);
         }
