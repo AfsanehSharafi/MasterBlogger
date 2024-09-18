@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Infrastructure.EfCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31dc15b2f378d4fa37d9afa3637a0339f16f120b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b649b0a6c4c9a01111a5d5e3fe1d9837340c47a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Infrastructure.EfCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Infrastructure.EfCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
