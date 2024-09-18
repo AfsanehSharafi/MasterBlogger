@@ -169,7 +169,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Projects\\MasterBlogger\\Application.Contracts\\Application.Contracts.csproj": {
+                "projectPath": "C:\\Projects\\MasterBlogger\\Application.Contracts\\Application.Contracts.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

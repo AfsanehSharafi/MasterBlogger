@@ -9,3 +9,4 @@ C:\Projects\MasterBlogger\Application.Contracts\obj\Debug\net8.0\Application.Con
 C:\Projects\MasterBlogger\Application.Contracts\obj\Debug\net8.0\refint\Application.Contracts.dll
 C:\Projects\MasterBlogger\Application.Contracts\obj\Debug\net8.0\Application.Contracts.pdb
 C:\Projects\MasterBlogger\Application.Contracts\obj\Debug\net8.0\ref\Application.Contracts.dll
+C:\Projects\MasterBlogger\Application.Contracts\obj\Debug\net8.0\Application.Contracts.sourcelink.json

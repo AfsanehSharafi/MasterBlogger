@@ -945,6 +945,9 @@
         }
       },
       "Domain/1.0.0": {
+        "dependencies": {
+          "Application.Contracts": "1.0.0"
+        },
         "runtime": {
           "Domain.dll": {}
         }
