@@ -1,6 +1,7 @@
 using Application;
 using Application.Contracts.ArticleCategory;
 using Domain.ArticleCategoryAgg;
+using Infrastructure.Core;
 using Infrastructure.EfCore;
 using Infrastructure.EfCore.Repositories;
 using Microsoft.EntityFrameworkCore;

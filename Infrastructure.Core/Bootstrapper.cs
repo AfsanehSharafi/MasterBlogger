@@ -5,12 +5,14 @@ using Domain.ArticleAgg;
 using Domain.ArticleAgg.Services;
 using Domain.ArticleCategoryAgg;
 using Domain.ArticleCategoryAgg.Services;
+using Infrastructure.EfCore;
 using Infrastructure.EfCore.Repositories;
+using Infrastructure.Query;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 
 
-namespace Infrastructure.EfCore
+namespace Infrastructure.Core
 {
     public class Bootstrapper
     {

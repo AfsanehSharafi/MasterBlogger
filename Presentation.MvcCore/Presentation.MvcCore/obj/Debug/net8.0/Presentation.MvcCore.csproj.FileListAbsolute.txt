@@ -75,3 +75,7 @@ C:\Projects\MasterBlogger\Presentation.MvcCore\Presentation.MvcCore\obj\Debug\ne
 C:\Projects\MasterBlogger\Presentation.MvcCore\Presentation.MvcCore\obj\Debug\net8.0\Presentation.MvcCore.genruntimeconfig.cache
 C:\Projects\MasterBlogger\Presentation.MvcCore\Presentation.MvcCore\obj\Debug\net8.0\ref\Presentation.MvcCore.dll
 C:\Projects\MasterBlogger\Presentation.MvcCore\Presentation.MvcCore\obj\Debug\net8.0\Presentation.MvcCore.sourcelink.json
+C:\Projects\MasterBlogger\Presentation.MvcCore\Presentation.MvcCore\bin\Debug\net8.0\Infrastructure.Core.dll
+C:\Projects\MasterBlogger\Presentation.MvcCore\Presentation.MvcCore\bin\Debug\net8.0\Infrastructure.Query.dll
+C:\Projects\MasterBlogger\Presentation.MvcCore\Presentation.MvcCore\bin\Debug\net8.0\Infrastructure.Core.pdb
+C:\Projects\MasterBlogger\Presentation.MvcCore\Presentation.MvcCore\bin\Debug\net8.0\Infrastructure.Query.pdb
