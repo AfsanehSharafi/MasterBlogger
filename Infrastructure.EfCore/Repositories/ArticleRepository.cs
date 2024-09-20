@@ -40,14 +40,20 @@ namespace Infrastructure.EfCore.Repositories
             Save();
         }
 
-        public Article Get(long id)
-        {
-            return _context.Articles.FirstOrDefault(x => x.Id == id);
-        }
 
         public void Save()
         {
             _context.SaveChanges();
+        }
+
+        public bool Exists(string title)
+        {
+            return _context.Articles.Any(x=> x.Title == title);
+        }
+
+        public Article Get(long id)
+        {
+            return _context.Articles.FirstOrDefault(x => x.Id == id);
         }
     }
 }

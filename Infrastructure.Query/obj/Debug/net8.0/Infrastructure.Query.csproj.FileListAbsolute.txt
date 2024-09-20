@@ -1,0 +1,6 @@
+C:\Projects\MasterBlogger\Infrastructure.Query\obj\Debug\net8.0\Infrastructure.Query.csproj.AssemblyReference.cache
+C:\Projects\MasterBlogger\Infrastructure.Query\obj\Debug\net8.0\Infrastructure.Query.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MasterBlogger\Infrastructure.Query\obj\Debug\net8.0\Infrastructure.Query.AssemblyInfoInputs.cache
+C:\Projects\MasterBlogger\Infrastructure.Query\obj\Debug\net8.0\Infrastructure.Query.AssemblyInfo.cs
+C:\Projects\MasterBlogger\Infrastructure.Query\obj\Debug\net8.0\Infrastructure.Query.csproj.CoreCompileInputs.cache
+C:\Projects\MasterBlogger\Infrastructure.Query\obj\Debug\net8.0\Infrastructure.Query.sourcelink.json

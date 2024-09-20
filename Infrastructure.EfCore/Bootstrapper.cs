@@ -8,11 +8,7 @@ using Domain.ArticleCategoryAgg.Services;
 using Infrastructure.EfCore.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace Infrastructure.EfCore
 {
@@ -28,6 +24,8 @@ namespace Infrastructure.EfCore
             services.AddTransient<IArticleApplication,ArticleApplication>();
             services.AddTransient<IArticleRepository, ArticleRepository>();
             services.AddTransient<IArticleValidatorService, ArticleValidatorService>();
+
+            services.AddTransient<IArticleQuery, ArticleQuery>();
 
             services.AddDbContext<MasterBloggerContext>(options => options.UseSqlServer(ConnectionString));
 
