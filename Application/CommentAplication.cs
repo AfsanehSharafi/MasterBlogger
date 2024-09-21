@@ -15,5 +15,11 @@ namespace Application
         {
             _commentRepository = commentRepository;
         }
+
+        public void Add(AddComment command)
+        {
+            var comment = new Comment(command.Name, command.Email, command.Mesage, command.ArticleId);
+            _commentRepository.CreateAndSave(comment);
+        }
     }
 }

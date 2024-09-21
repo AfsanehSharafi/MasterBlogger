@@ -4,7 +4,7 @@
     ViewData["Title"] = "ArticleDetails";
 }
 
-<main class="post blog-post col-lg-12">
+<main class="post blog-post col-lg-12">         
     <div class="container">
         <div class="post-single">
             <div class="post-thumbnail">
@@ -58,7 +58,7 @@
                                 <input type="email" name="Email" id="Email" placeholder="Email Address (will not be published)" class="form-control">
                             </div>
                             <div class="form-group col-md-12">
-                                <textarea name="Message" id="Message" placeholder="Type your comment" class="form-control"></textarea>
+                                <textarea asp-for="AddComment.Mesage" placeholder="Type your comment" class="form-control"></textarea>
                             </div>
                             <input type="hidden" name="ArticleId" value="@Model.Article.Id" />
                             <div class="form-group col-md-12">

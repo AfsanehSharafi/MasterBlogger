@@ -1,10 +1,12 @@
 ﻿using Application;
 using Application.Contracts.Article;
 using Application.Contracts.ArticleCategory;
+using Application.Contracts.Comment;
 using Domain.ArticleAgg;
 using Domain.ArticleAgg.Services;
 using Domain.ArticleCategoryAgg;
 using Domain.ArticleCategoryAgg.Services;
+using Domain.CommentAgg;
 using Infrastructure.EfCore;
 using Infrastructure.EfCore.Repositories;
 using Infrastructure.Query;
@@ -26,6 +28,9 @@ namespace Infrastructure.Core
             services.AddTransient<IArticleApplication,ArticleApplication>();
             services.AddTransient<IArticleRepository, ArticleRepository>();
             services.AddTransient<IArticleValidatorService, ArticleValidatorService>();
+
+            services.AddTransient<ICommentApplication, CommentAplication>();
+            services.AddTransient<ICommentRepository, CommentRepository>();
 
             services.AddTransient<IArticleQuery, ArticleQuery>();
 

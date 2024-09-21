@@ -14,5 +14,11 @@ namespace Infrastructure.EfCore.Repositories
         {
             _content = context;
         }
+
+        public void CreateAndSave(Comment Entity)
+        {
+            _content.Comments.Add(Entity);
+            _content.SaveChanges();
+        }
     }
 }
