@@ -9,7 +9,7 @@ namespace Domain.CommentAgg
 {
     public class Comment
     {
-        public long id {  get; private set; }
+        public long Id {  get; private set; }
         public string Name { get; private set; }
         public string Email { get; private set; }
         public string Message { get; private set; }
