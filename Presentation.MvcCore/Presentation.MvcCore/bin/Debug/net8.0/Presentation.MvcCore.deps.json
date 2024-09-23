@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v8.0": {
       "Presentation.MvcCore/1.0.0": {
         "dependencies": {
+          "Domain": "1.0.0",
           "Infrastructure.Core": "1.0.0"
         },
         "runtime": {

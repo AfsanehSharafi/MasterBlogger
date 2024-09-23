@@ -5,8 +5,8 @@ C:\Projects\MasterBlogger\Application.Contracts\obj\Debug\net8.0\Application.Con
 C:\Projects\MasterBlogger\Application.Contracts\obj\Debug\net8.0\Application.Contracts.AssemblyInfoInputs.cache
 C:\Projects\MasterBlogger\Application.Contracts\obj\Debug\net8.0\Application.Contracts.AssemblyInfo.cs
 C:\Projects\MasterBlogger\Application.Contracts\obj\Debug\net8.0\Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Projects\MasterBlogger\Application.Contracts\obj\Debug\net8.0\Application.Contracts.sourcelink.json
 C:\Projects\MasterBlogger\Application.Contracts\obj\Debug\net8.0\Application.Contracts.dll
 C:\Projects\MasterBlogger\Application.Contracts\obj\Debug\net8.0\refint\Application.Contracts.dll
 C:\Projects\MasterBlogger\Application.Contracts\obj\Debug\net8.0\Application.Contracts.pdb
 C:\Projects\MasterBlogger\Application.Contracts\obj\Debug\net8.0\ref\Application.Contracts.dll
-C:\Projects\MasterBlogger\Application.Contracts\obj\Debug\net8.0\Application.Contracts.sourcelink.json

@@ -13,10 +13,10 @@ C:\Projects\MasterBlogger\Infrastructure.EfCore\obj\Debug\net8.0\Infrastructure.
 C:\Projects\MasterBlogger\Infrastructure.EfCore\obj\Debug\net8.0\Infrastructure.EfCore.AssemblyInfoInputs.cache
 C:\Projects\MasterBlogger\Infrastructure.EfCore\obj\Debug\net8.0\Infrastructure.EfCore.AssemblyInfo.cs
 C:\Projects\MasterBlogger\Infrastructure.EfCore\obj\Debug\net8.0\Infrastructure.EfCore.csproj.CoreCompileInputs.cache
+C:\Projects\MasterBlogger\Infrastructure.EfCore\obj\Debug\net8.0\Infrastructure.EfCore.sourcelink.json
 C:\Projects\MasterBlogger\Infrastructure.EfCore\obj\Debug\net8.0\Infrastr.E3478563.Up2Date
 C:\Projects\MasterBlogger\Infrastructure.EfCore\obj\Debug\net8.0\Infrastructure.EfCore.dll
 C:\Projects\MasterBlogger\Infrastructure.EfCore\obj\Debug\net8.0\refint\Infrastructure.EfCore.dll
 C:\Projects\MasterBlogger\Infrastructure.EfCore\obj\Debug\net8.0\Infrastructure.EfCore.pdb
 C:\Projects\MasterBlogger\Infrastructure.EfCore\obj\Debug\net8.0\Infrastructure.EfCore.genruntimeconfig.cache
 C:\Projects\MasterBlogger\Infrastructure.EfCore\obj\Debug\net8.0\ref\Infrastructure.EfCore.dll
-C:\Projects\MasterBlogger\Infrastructure.EfCore\obj\Debug\net8.0\Infrastructure.EfCore.sourcelink.json

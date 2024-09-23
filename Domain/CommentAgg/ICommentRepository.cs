@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Application.Contracts.Comment;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,5 +10,6 @@ namespace Domain.CommentAgg
     public interface ICommentRepository
     {
         void CreateAndSave(Comment Entity);
+        List <CommentViewModel> GetList();
     }
 }

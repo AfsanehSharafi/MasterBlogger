@@ -486,6 +486,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "C:\\Projects\\MasterBlogger\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Projects\\MasterBlogger\\Domain\\Domain.csproj"
+              },
               "C:\\Projects\\MasterBlogger\\Infrastructure.Core\\Infrastructure.Core.csproj": {
                 "projectPath": "C:\\Projects\\MasterBlogger\\Infrastructure.Core\\Infrastructure.Core.csproj"
               }

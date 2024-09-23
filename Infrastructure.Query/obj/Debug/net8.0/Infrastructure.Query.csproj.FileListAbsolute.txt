@@ -1,9 +1,3 @@
-C:\Projects\MasterBlogger\Infrastructure.Query\obj\Debug\net8.0\Infrastructure.Query.csproj.AssemblyReference.cache
-C:\Projects\MasterBlogger\Infrastructure.Query\obj\Debug\net8.0\Infrastructure.Query.GeneratedMSBuildEditorConfig.editorconfig
-C:\Projects\MasterBlogger\Infrastructure.Query\obj\Debug\net8.0\Infrastructure.Query.AssemblyInfoInputs.cache
-C:\Projects\MasterBlogger\Infrastructure.Query\obj\Debug\net8.0\Infrastructure.Query.AssemblyInfo.cs
-C:\Projects\MasterBlogger\Infrastructure.Query\obj\Debug\net8.0\Infrastructure.Query.csproj.CoreCompileInputs.cache
-C:\Projects\MasterBlogger\Infrastructure.Query\obj\Debug\net8.0\Infrastructure.Query.sourcelink.json
 C:\Projects\MasterBlogger\Infrastructure.Query\bin\Debug\net8.0\Infrastructure.Query.deps.json
 C:\Projects\MasterBlogger\Infrastructure.Query\bin\Debug\net8.0\Infrastructure.Query.dll
 C:\Projects\MasterBlogger\Infrastructure.Query\bin\Debug\net8.0\Infrastructure.Query.pdb
@@ -15,6 +9,12 @@ C:\Projects\MasterBlogger\Infrastructure.Query\bin\Debug\net8.0\Infrastructure.E
 C:\Projects\MasterBlogger\Infrastructure.Query\bin\Debug\net8.0\Application.pdb
 C:\Projects\MasterBlogger\Infrastructure.Query\bin\Debug\net8.0\Application.Contracts.pdb
 C:\Projects\MasterBlogger\Infrastructure.Query\bin\Debug\net8.0\Domain.pdb
+C:\Projects\MasterBlogger\Infrastructure.Query\obj\Debug\net8.0\Infrastructure.Query.csproj.AssemblyReference.cache
+C:\Projects\MasterBlogger\Infrastructure.Query\obj\Debug\net8.0\Infrastructure.Query.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\MasterBlogger\Infrastructure.Query\obj\Debug\net8.0\Infrastructure.Query.AssemblyInfoInputs.cache
+C:\Projects\MasterBlogger\Infrastructure.Query\obj\Debug\net8.0\Infrastructure.Query.AssemblyInfo.cs
+C:\Projects\MasterBlogger\Infrastructure.Query\obj\Debug\net8.0\Infrastructure.Query.csproj.CoreCompileInputs.cache
+C:\Projects\MasterBlogger\Infrastructure.Query\obj\Debug\net8.0\Infrastructure.Query.sourcelink.json
 C:\Projects\MasterBlogger\Infrastructure.Query\obj\Debug\net8.0\Infrastr.59341303.Up2Date
 C:\Projects\MasterBlogger\Infrastructure.Query\obj\Debug\net8.0\Infrastructure.Query.dll
 C:\Projects\MasterBlogger\Infrastructure.Query\obj\Debug\net8.0\refint\Infrastructure.Query.dll
