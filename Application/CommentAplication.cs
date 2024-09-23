@@ -22,6 +22,19 @@ namespace Application
             _commentRepository.CreateAndSave(comment);
         }
 
+        public void Canceled(long id)
+        {
+            var comment = _commentRepository.Get(id);
+            comment.Cancel();
+            _commentRepository.Save();
+        }
+
+        public void Confirm(long id)
+        {
+            var comment = _commentRepository.Get(id);
+            comment.Confirm();
+        }
+
         public List<CommentViewModel> GetList()
         {
             return _commentRepository.GetList();

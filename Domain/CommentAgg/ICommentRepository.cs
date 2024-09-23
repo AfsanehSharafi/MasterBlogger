@@ -11,5 +11,7 @@ namespace Domain.CommentAgg
     {
         void CreateAndSave(Comment Entity);
         List <CommentViewModel> GetList();
+        Comment Get(long id);
+        void Save();
     }
 }

@@ -17,5 +17,18 @@ namespace MvcCore.Areas.Administrator.Pages.CommentManagement
         {
             Comments = _commentApplication.GetList();
         }
+
+        public RedirectToPageResult OnPostConfirm(long id)
+        {
+            _commentApplication.Confirm(id);
+            return RedirectToPage("./List");
+        }
+
+        public RedirectToPageResult OnPostCancel(long id)
+        {
+            _commentApplication.Canceled(id);
+            return RedirectToPage("./List");
+        }
+
     }
 }
