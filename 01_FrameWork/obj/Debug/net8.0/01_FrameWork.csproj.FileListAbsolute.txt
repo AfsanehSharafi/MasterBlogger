@@ -1,12 +1,12 @@
+C:\Projects\MasterBlogger\01_FrameWork\bin\Debug\net8.0\01_FrameWork.deps.json
+C:\Projects\MasterBlogger\01_FrameWork\bin\Debug\net8.0\01_FrameWork.dll
+C:\Projects\MasterBlogger\01_FrameWork\bin\Debug\net8.0\01_FrameWork.pdb
 C:\Projects\MasterBlogger\01_FrameWork\obj\Debug\net8.0\01_FrameWork.csproj.AssemblyReference.cache
 C:\Projects\MasterBlogger\01_FrameWork\obj\Debug\net8.0\01_FrameWork.GeneratedMSBuildEditorConfig.editorconfig
 C:\Projects\MasterBlogger\01_FrameWork\obj\Debug\net8.0\01_FrameWork.AssemblyInfoInputs.cache
 C:\Projects\MasterBlogger\01_FrameWork\obj\Debug\net8.0\01_FrameWork.AssemblyInfo.cs
 C:\Projects\MasterBlogger\01_FrameWork\obj\Debug\net8.0\01_FrameWork.csproj.CoreCompileInputs.cache
 C:\Projects\MasterBlogger\01_FrameWork\obj\Debug\net8.0\01_FrameWork.sourcelink.json
-C:\Projects\MasterBlogger\01_FrameWork\bin\Debug\net8.0\01_FrameWork.deps.json
-C:\Projects\MasterBlogger\01_FrameWork\bin\Debug\net8.0\01_FrameWork.dll
-C:\Projects\MasterBlogger\01_FrameWork\bin\Debug\net8.0\01_FrameWork.pdb
 C:\Projects\MasterBlogger\01_FrameWork\obj\Debug\net8.0\01_FrameWork.dll
 C:\Projects\MasterBlogger\01_FrameWork\obj\Debug\net8.0\refint\01_FrameWork.dll
 C:\Projects\MasterBlogger\01_FrameWork\obj\Debug\net8.0\01_FrameWork.pdb

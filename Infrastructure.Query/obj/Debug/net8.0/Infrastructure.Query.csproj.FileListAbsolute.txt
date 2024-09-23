@@ -1,11 +1,13 @@
 C:\Projects\MasterBlogger\Infrastructure.Query\bin\Debug\net8.0\Infrastructure.Query.deps.json
 C:\Projects\MasterBlogger\Infrastructure.Query\bin\Debug\net8.0\Infrastructure.Query.dll
 C:\Projects\MasterBlogger\Infrastructure.Query\bin\Debug\net8.0\Infrastructure.Query.pdb
+C:\Projects\MasterBlogger\Infrastructure.Query\bin\Debug\net8.0\01_FrameWork.dll
 C:\Projects\MasterBlogger\Infrastructure.Query\bin\Debug\net8.0\Application.Contracts.dll
 C:\Projects\MasterBlogger\Infrastructure.Query\bin\Debug\net8.0\Application.dll
 C:\Projects\MasterBlogger\Infrastructure.Query\bin\Debug\net8.0\Domain.dll
 C:\Projects\MasterBlogger\Infrastructure.Query\bin\Debug\net8.0\Infrastructure.EfCore.dll
 C:\Projects\MasterBlogger\Infrastructure.Query\bin\Debug\net8.0\Infrastructure.EfCore.pdb
+C:\Projects\MasterBlogger\Infrastructure.Query\bin\Debug\net8.0\01_FrameWork.pdb
 C:\Projects\MasterBlogger\Infrastructure.Query\bin\Debug\net8.0\Application.pdb
 C:\Projects\MasterBlogger\Infrastructure.Query\bin\Debug\net8.0\Application.Contracts.pdb
 C:\Projects\MasterBlogger\Infrastructure.Query\bin\Debug\net8.0\Domain.pdb
@@ -20,5 +22,3 @@ C:\Projects\MasterBlogger\Infrastructure.Query\obj\Debug\net8.0\Infrastructure.Q
 C:\Projects\MasterBlogger\Infrastructure.Query\obj\Debug\net8.0\refint\Infrastructure.Query.dll
 C:\Projects\MasterBlogger\Infrastructure.Query\obj\Debug\net8.0\Infrastructure.Query.pdb
 C:\Projects\MasterBlogger\Infrastructure.Query\obj\Debug\net8.0\ref\Infrastructure.Query.dll
-C:\Projects\MasterBlogger\Infrastructure.Query\bin\Debug\net8.0\01_FrameWork.dll
-C:\Projects\MasterBlogger\Infrastructure.Query\bin\Debug\net8.0\01_FrameWork.pdb
