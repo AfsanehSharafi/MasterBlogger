@@ -1,17 +1,10 @@
-﻿using Application.Contracts.Comment;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using _01_FrameWork.Infrastructure;
+using Application.Contracts.Comment;
 
 namespace Domain.CommentAgg
 {
-    public interface ICommentRepository
+    public interface ICommentRepository : IRepository<long, Comment>
     {
-        void CreateAndSave(Comment Entity);
-        List <CommentViewModel> GetList();
-        Comment Get(long id);
-        void Save();
+        List<CommentViewModel> GetList();
     }
 }

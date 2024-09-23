@@ -24,13 +24,13 @@ namespace Application
         {
             var articleCategory = _articleCategoryRepository.Get(id);
             articleCategory.Activate();
-            _articleCategoryRepository.Save();
+            //_articleCategoryRepository.Save();
         }
 
         public void Create(CreateArticleCategory command)
         {
             var articleCategory = new ArticleCategory(command.Title, _validatorService);
-            _articleCategoryRepository.Add(articleCategory);
+            _articleCategoryRepository.Create(articleCategory);
         }
 
         public RenameArticleCategory Get(long id)
@@ -46,26 +46,22 @@ namespace Application
 
         public List<ArticleCategoryViewModel> list()
         {
-            var articleCategories = _articleCategoryRepository.GetAll();
-            var result = new List<ArticleCategoryViewModel>();
-            foreach (var articleCategory in articleCategories)
-            {
-                result.Add(new ArticleCategoryViewModel
-                {
-                    Id = articleCategory.Id,
-                    Title = articleCategory.Title,
-                    IsDeleted = articleCategory.IsDeleted,
-                    CreationDate = articleCategory.CreationDate.ToString(CultureInfo.InvariantCulture),
-                });
-            }
-            return result;
+            var articleCategories = _articleCategoryRepository.GetList();
+            return (from articleCategory in articleCategories
+                    select new ArticleCategoryViewModel
+                    {
+                        Id = articleCategory.Id,
+                        Title = articleCategory.Title,
+                        IsDeleted = articleCategory.IsDeleted,
+                        CreationDate = articleCategory.CreationDate.ToString(CultureInfo.InvariantCulture),
+                    }).OrderByDescending(x=>x.Id).ToList();
         }
 
         public void Remove(long id)
         {
             var articleCategory = _articleCategoryRepository.Get(id);
             articleCategory.Remove();
-            _articleCategoryRepository.Save();
+            //_articleCategoryRepository.Save();
         }
 
 
@@ -83,7 +79,7 @@ namespace Application
         {
             var articleCategory = _articleCategoryRepository.Get(command.Id);
             articleCategory.Rename(command.Title);
-            _articleCategoryRepository.Save();
+            //_articleCategoryRepository.Save();
         }
 
 

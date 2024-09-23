@@ -562,6 +562,14 @@
           }
         }
       },
+      "01_FrameWork/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "8.0.8"
+        },
+        "runtime": {
+          "01_FrameWork.dll": {}
+        }
+      },
       "Application/1.0.0": {
         "dependencies": {
           "Application.Contracts": "1.0.0",
@@ -578,6 +586,7 @@
       },
       "Domain/1.0.0": {
         "dependencies": {
+          "01_FrameWork": "1.0.0",
           "Application.Contracts": "1.0.0"
         },
         "runtime": {
@@ -996,6 +1005,11 @@
       "sha512": "sha512-IXoJOXIqc39AIe+CIR7koBtRGMiCt/LPM3lI+PELtDIy9XdyeSrwXFdWV9dzJ2Awl0paLWUaknLxFQ5HpHZUog==",
       "path": "system.windows.extensions/6.0.0",
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
+    },
+    "01_FrameWork/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Application/1.0.0": {
       "type": "project",

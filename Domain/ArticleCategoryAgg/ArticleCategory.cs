@@ -1,4 +1,5 @@
-﻿using Domain.ArticleAgg;
+﻿using _01_FrameWork.Domain;
+using Domain.ArticleAgg;
 using Domain.ArticleCategoryAgg.Services;
 using System;
 using System.Collections.Generic;
@@ -8,12 +9,10 @@ using System.Threading.Tasks;
 
 namespace Domain.ArticleCategoryAgg
 {
-    public class ArticleCategory
+    public class ArticleCategory:DomainBase<long>
     {
-        public long Id { get; private set; }
         public string Title { get; private set; }
         public bool IsDeleted { get; private set; }
-        public DateTime CreationDate { get; private set; }
 
         public ICollection<Article> Articles { get; private set; }
         protected ArticleCategory()
@@ -26,7 +25,6 @@ namespace Domain.ArticleCategoryAgg
             validatorService.CheckThatThisRecordAlreadyExists(title);
             Title =title;
             IsDeleted = false;
-            CreationDate = DateTime.Now;
             Articles= new List<Article>();
         }
 

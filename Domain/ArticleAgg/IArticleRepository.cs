@@ -1,18 +1,10 @@
-﻿using Application.Contracts.Article;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using _01_FrameWork.Infrastructure;
+using Application.Contracts.Article;
 
 namespace Domain.ArticleAgg
 {
-    public interface IArticleRepository
+    public interface IArticleRepository : IRepository<long, Article>
     {
         List<ArticleViewModel> GetList();
-        void CreateAndSave(Article entity);
-        Article Get(long id);
-        void Save();
-        bool Exists(string title);
     }
 }

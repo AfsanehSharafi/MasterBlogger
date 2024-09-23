@@ -3,60 +3,36 @@
   "WorkspaceRootPath": "C:\\Projects\\MasterBlogger\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|c:\\projects\\masterblogger\\presentation.mvccore\\presentation.mvccore\\pages\\articledetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|solutionrelative:presentation.mvccore\\presentation.mvccore\\pages\\articledetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4A22CDD1-DE24-4560-BA2F-817DC2F665BB}|Domain\\Domain.csproj|c:\\projects\\masterblogger\\domain\\articlecategoryagg\\services\\articlecategoryvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A22CDD1-DE24-4560-BA2F-817DC2F665BB}|Domain\\Domain.csproj|solutionrelative:domain\\articlecategoryagg\\services\\articlecategoryvalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11B9C5E2-E13E-4D65-9176-5910600D2F24}|Infrastructure.Query\\Infrastructure.Query.csproj|c:\\projects\\masterblogger\\infrastructure.query\\articlequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11B9C5E2-E13E-4D65-9176-5910600D2F24}|Infrastructure.Query\\Infrastructure.Query.csproj|solutionrelative:infrastructure.query\\articlequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{378DFF92-1B6B-4D07-A9D3-5EA93D3228F8}|Application\\Application.csproj|c:\\projects\\masterblogger\\application\\articlecategoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378DFF92-1B6B-4D07-A9D3-5EA93D3228F8}|Application\\Application.csproj|solutionrelative:application\\articlecategoryapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11B9C5E2-E13E-4D65-9176-5910600D2F24}|Infrastructure.Query\\Infrastructure.Query.csproj|c:\\projects\\masterblogger\\infrastructure.query\\articlequeryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11B9C5E2-E13E-4D65-9176-5910600D2F24}|Infrastructure.Query\\Infrastructure.Query.csproj|solutionrelative:infrastructure.query\\articlequeryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A22CDD1-DE24-4560-BA2F-817DC2F665BB}|Domain\\Domain.csproj|c:\\projects\\masterblogger\\domain\\articleagg\\services\\iarticlevalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A22CDD1-DE24-4560-BA2F-817DC2F665BB}|Domain\\Domain.csproj|solutionrelative:domain\\articleagg\\services\\iarticlevalidatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11B9C5E2-E13E-4D65-9176-5910600D2F24}|Infrastructure.Query\\Infrastructure.Query.csproj|c:\\projects\\masterblogger\\infrastructure.query\\commentqueryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11B9C5E2-E13E-4D65-9176-5910600D2F24}|Infrastructure.Query\\Infrastructure.Query.csproj|solutionrelative:infrastructure.query\\commentqueryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|c:\\projects\\masterblogger\\presentation.mvccore\\presentation.mvccore\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|solutionrelative:presentation.mvccore\\presentation.mvccore\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|c:\\projects\\masterblogger\\presentation.mvccore\\presentation.mvccore\\areas\\administrator\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|solutionrelative:presentation.mvccore\\presentation.mvccore\\areas\\administrator\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|c:\\projects\\masterblogger\\presentation.mvccore\\presentation.mvccore\\areas\\administrator\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|solutionrelative:presentation.mvccore\\presentation.mvccore\\areas\\administrator\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|c:\\projects\\masterblogger\\presentation.mvccore\\presentation.mvccore\\areas\\administrator\\pages\\commentmanagement\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|solutionrelative:presentation.mvccore\\presentation.mvccore\\areas\\administrator\\pages\\commentmanagement\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|c:\\projects\\masterblogger\\presentation.mvccore\\presentation.mvccore\\areas\\administrator\\pages\\commentmanagement\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|solutionrelative:presentation.mvccore\\presentation.mvccore\\areas\\administrator\\pages\\commentmanagement\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46A4B0BF-4D1A-4EAD-B483-0118138332C8}|Application.Contracts\\Application.Contracts.csproj|c:\\projects\\masterblogger\\application.contracts\\comment\\icommentapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46A4B0BF-4D1A-4EAD-B483-0118138332C8}|Application.Contracts\\Application.Contracts.csproj|solutionrelative:application.contracts\\comment\\icommentapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FDD5AD28-2A1B-405D-9080-19901AA1CE83}|Infrastructure.EfCore\\Infrastructure.EfCore.csproj|c:\\projects\\masterblogger\\infrastructure.efcore\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FDD5AD28-2A1B-405D-9080-19901AA1CE83}|Infrastructure.EfCore\\Infrastructure.EfCore.csproj|solutionrelative:infrastructure.efcore\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{378DFF92-1B6B-4D07-A9D3-5EA93D3228F8}|Application\\Application.csproj|c:\\projects\\masterblogger\\application\\articleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378DFF92-1B6B-4D07-A9D3-5EA93D3228F8}|Application\\Application.csproj|solutionrelative:application\\articleapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{378DFF92-1B6B-4D07-A9D3-5EA93D3228F8}|Application\\Application.csproj|c:\\projects\\masterblogger\\application\\commentaplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{378DFF92-1B6B-4D07-A9D3-5EA93D3228F8}|Application\\Application.csproj|solutionrelative:application\\commentaplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A22CDD1-DE24-4560-BA2F-817DC2F665BB}|Domain\\Domain.csproj|c:\\projects\\masterblogger\\domain\\commentagg\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A22CDD1-DE24-4560-BA2F-817DC2F665BB}|Domain\\Domain.csproj|solutionrelative:domain\\commentagg\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FDD5AD28-2A1B-405D-9080-19901AA1CE83}|Infrastructure.EfCore\\Infrastructure.EfCore.csproj|c:\\projects\\masterblogger\\infrastructure.efcore\\repositories\\articlecategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD5AD28-2A1B-405D-9080-19901AA1CE83}|Infrastructure.EfCore\\Infrastructure.EfCore.csproj|solutionrelative:infrastructure.efcore\\repositories\\articlecategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46A4B0BF-4D1A-4EAD-B483-0118138332C8}|Application.Contracts\\Application.Contracts.csproj|c:\\projects\\masterblogger\\application.contracts\\comment\\commentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46A4B0BF-4D1A-4EAD-B483-0118138332C8}|Application.Contracts\\Application.Contracts.csproj|solutionrelative:application.contracts\\comment\\commentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FDD5AD28-2A1B-405D-9080-19901AA1CE83}|Infrastructure.EfCore\\Infrastructure.EfCore.csproj|c:\\projects\\masterblogger\\infrastructure.efcore\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD5AD28-2A1B-405D-9080-19901AA1CE83}|Infrastructure.EfCore\\Infrastructure.EfCore.csproj|solutionrelative:infrastructure.efcore\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD5AD28-2A1B-405D-9080-19901AA1CE83}|Infrastructure.EfCore\\Infrastructure.EfCore.csproj|c:\\projects\\masterblogger\\infrastructure.efcore\\repositories\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD5AD28-2A1B-405D-9080-19901AA1CE83}|Infrastructure.EfCore\\Infrastructure.EfCore.csproj|solutionrelative:infrastructure.efcore\\repositories\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -79,178 +55,106 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ArticleDetails.cshtml",
-              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Pages\\ArticleDetails.cshtml",
-              "RelativeDocumentMoniker": "Presentation.MvcCore\\Presentation.MvcCore\\Pages\\ArticleDetails.cshtml",
-              "ToolTip": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Pages\\ArticleDetails.cshtml",
-              "RelativeToolTip": "Presentation.MvcCore\\Presentation.MvcCore\\Pages\\ArticleDetails.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAABwAAABvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T12:32:51.933Z",
+              "Title": "ArticleCategoryValidatorService.cs",
+              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Domain\\ArticleCategoryAgg\\Services\\ArticleCategoryValidatorService.cs",
+              "RelativeDocumentMoniker": "Domain\\ArticleCategoryAgg\\Services\\ArticleCategoryValidatorService.cs",
+              "ToolTip": "C:\\Projects\\MasterBlogger\\Domain\\ArticleCategoryAgg\\Services\\ArticleCategoryValidatorService.cs",
+              "RelativeToolTip": "Domain\\ArticleCategoryAgg\\Services\\ArticleCategoryValidatorService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvwkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T13:47:50.708Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ArticleQueryView.cs",
-              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Infrastructure.Query\\ArticleQueryView.cs",
-              "RelativeDocumentMoniker": "Infrastructure.Query\\ArticleQueryView.cs",
-              "ToolTip": "C:\\Projects\\MasterBlogger\\Infrastructure.Query\\ArticleQueryView.cs",
-              "RelativeToolTip": "Infrastructure.Query\\ArticleQueryView.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAA8AAAA",
+              "Title": "IArticleValidatorService.cs",
+              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Domain\\ArticleAgg\\Services\\IArticleValidatorService.cs",
+              "RelativeDocumentMoniker": "Domain\\ArticleAgg\\Services\\IArticleValidatorService.cs",
+              "ToolTip": "C:\\Projects\\MasterBlogger\\Domain\\ArticleAgg\\Services\\IArticleValidatorService.cs",
+              "RelativeToolTip": "Domain\\ArticleAgg\\Services\\IArticleValidatorService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwBcAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T12:24:02.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CommentQueryView.cs",
-              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Infrastructure.Query\\CommentQueryView.cs",
-              "RelativeDocumentMoniker": "Infrastructure.Query\\CommentQueryView.cs",
-              "ToolTip": "C:\\Projects\\MasterBlogger\\Infrastructure.Query\\CommentQueryView.cs",
-              "RelativeToolTip": "Infrastructure.Query\\CommentQueryView.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T12:21:35.056Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "Presentation.MvcCore\\Presentation.MvcCore\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Pages\\Index.cshtml",
-              "RelativeToolTip": "Presentation.MvcCore\\Presentation.MvcCore\\Pages\\Index.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAABtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T12:18:58.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\Index.cshtml.cs",
-              "ToolTip": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\Index.cshtml.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T12:18:36.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\Index.cshtml",
-              "RelativeToolTip": "Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T12:18:33.865Z",
+              "WhenOpened": "2024-09-23T13:46:57.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ArticleQuery.cs",
-              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Infrastructure.Query\\ArticleQuery.cs",
-              "RelativeDocumentMoniker": "Infrastructure.Query\\ArticleQuery.cs",
-              "ToolTip": "C:\\Projects\\MasterBlogger\\Infrastructure.Query\\ArticleQuery.cs",
-              "RelativeToolTip": "Infrastructure.Query\\ArticleQuery.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAwCYAAAAYAAAA",
+              "Title": "ArticleCategoryApplication.cs",
+              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Application\\ArticleCategoryApplication.cs",
+              "RelativeDocumentMoniker": "Application\\ArticleCategoryApplication.cs",
+              "ToolTip": "C:\\Projects\\MasterBlogger\\Application\\ArticleCategoryApplication.cs",
+              "RelativeToolTip": "Application\\ArticleCategoryApplication.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAwwEoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T12:13:33.861Z",
+              "WhenOpened": "2024-09-23T13:44:26.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CommentRepository.cs",
-              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Infrastructure.EfCore\\Repositories\\CommentRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure.EfCore\\Repositories\\CommentRepository.cs",
-              "ToolTip": "C:\\Projects\\MasterBlogger\\Infrastructure.EfCore\\Repositories\\CommentRepository.cs",
-              "RelativeToolTip": "Infrastructure.EfCore\\Repositories\\CommentRepository.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAuwBwAAABFAAAA",
+              "DocumentIndex": 3,
+              "Title": "ArticleApplication.cs",
+              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Application\\ArticleApplication.cs",
+              "RelativeDocumentMoniker": "Application\\ArticleApplication.cs",
+              "ToolTip": "C:\\Projects\\MasterBlogger\\Application\\ArticleApplication.cs",
+              "RelativeToolTip": "Application\\ArticleApplication.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowDYAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T11:49:13.042Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ICommentApplication.cs",
-              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Application.Contracts\\Comment\\ICommentApplication.cs",
-              "RelativeDocumentMoniker": "Application.Contracts\\Comment\\ICommentApplication.cs",
-              "ToolTip": "C:\\Projects\\MasterBlogger\\Application.Contracts\\Comment\\ICommentApplication.cs",
-              "RelativeToolTip": "Application.Contracts\\Comment\\ICommentApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T11:36:19.526Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "List.cshtml",
-              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\CommentManagement\\List.cshtml",
-              "RelativeDocumentMoniker": "Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\CommentManagement\\List.cshtml",
-              "ToolTip": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\CommentManagement\\List.cshtml",
-              "RelativeToolTip": "Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\CommentManagement\\List.cshtml",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAADQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T11:30:10.275Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "List.cshtml.cs",
-              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\CommentManagement\\List.cshtml.cs",
-              "RelativeDocumentMoniker": "Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\CommentManagement\\List.cshtml.cs",
-              "ToolTip": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\CommentManagement\\List.cshtml.cs",
-              "RelativeToolTip": "Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\CommentManagement\\List.cshtml.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBEAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T11:22:13.019Z",
+              "WhenOpened": "2024-09-23T13:43:43.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Comment.cs",
-              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Domain\\CommentAgg\\Comment.cs",
-              "RelativeDocumentMoniker": "Domain\\CommentAgg\\Comment.cs",
-              "ToolTip": "C:\\Projects\\MasterBlogger\\Domain\\CommentAgg\\Comment.cs",
-              "RelativeToolTip": "Domain\\CommentAgg\\Comment.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAAwCUAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T10:13:40.129Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "CommentAplication.cs",
               "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Application\\CommentAplication.cs",
               "RelativeDocumentMoniker": "Application\\CommentAplication.cs",
               "ToolTip": "C:\\Projects\\MasterBlogger\\Application\\CommentAplication.cs",
               "RelativeToolTip": "Application\\CommentAplication.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAIwCIAAAAeAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T09:55:10.548Z"
+              "WhenOpened": "2024-09-23T13:42:42.159Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CommentViewModel.cs",
-              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Application.Contracts\\Comment\\CommentViewModel.cs",
-              "RelativeDocumentMoniker": "Application.Contracts\\Comment\\CommentViewModel.cs",
-              "ToolTip": "C:\\Projects\\MasterBlogger\\Application.Contracts\\Comment\\CommentViewModel.cs",
-              "RelativeToolTip": "Application.Contracts\\Comment\\CommentViewModel.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBAAAAAsAAAA",
+              "DocumentIndex": 5,
+              "Title": "ArticleCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Infrastructure.EfCore\\Repositories\\ArticleCategoryRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure.EfCore\\Repositories\\ArticleCategoryRepository.cs",
+              "ToolTip": "C:\\Projects\\MasterBlogger\\Infrastructure.EfCore\\Repositories\\ArticleCategoryRepository.cs",
+              "RelativeToolTip": "Infrastructure.EfCore\\Repositories\\ArticleCategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T09:48:20.852Z"
+              "WhenOpened": "2024-09-23T13:41:10.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Infrastructure.EfCore\\Repositories\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure.EfCore\\Repositories\\CommentRepository.cs",
+              "ToolTip": "C:\\Projects\\MasterBlogger\\Infrastructure.EfCore\\Repositories\\CommentRepository.cs",
+              "RelativeToolTip": "Infrastructure.EfCore\\Repositories\\CommentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T13:41:07.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArticleRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Infrastructure.EfCore\\Repositories\\ArticleRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure.EfCore\\Repositories\\ArticleRepository.cs",
+              "ToolTip": "C:\\Projects\\MasterBlogger\\Infrastructure.EfCore\\Repositories\\ArticleRepository.cs",
+              "RelativeToolTip": "Infrastructure.EfCore\\Repositories\\ArticleRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T13:41:03.142Z",
+              "EditorCaption": ""
             }
           ]
         }

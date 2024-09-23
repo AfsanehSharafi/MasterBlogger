@@ -16,3 +16,5 @@ C:\Projects\MasterBlogger\Application\obj\Debug\net8.0\Application.dll
 C:\Projects\MasterBlogger\Application\obj\Debug\net8.0\refint\Application.dll
 C:\Projects\MasterBlogger\Application\obj\Debug\net8.0\Application.pdb
 C:\Projects\MasterBlogger\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Projects\MasterBlogger\Application\bin\Debug\net8.0\01_FrameWork.dll
+C:\Projects\MasterBlogger\Application\bin\Debug\net8.0\01_FrameWork.pdb

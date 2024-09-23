@@ -22,3 +22,5 @@ C:\Projects\MasterBlogger\Infrastructure.Core\obj\Debug\net8.0\Infrastructure.Co
 C:\Projects\MasterBlogger\Infrastructure.Core\obj\Debug\net8.0\refint\Infrastructure.Core.dll
 C:\Projects\MasterBlogger\Infrastructure.Core\obj\Debug\net8.0\Infrastructure.Core.pdb
 C:\Projects\MasterBlogger\Infrastructure.Core\obj\Debug\net8.0\ref\Infrastructure.Core.dll
+C:\Projects\MasterBlogger\Infrastructure.Core\bin\Debug\net8.0\01_FrameWork.dll
+C:\Projects\MasterBlogger\Infrastructure.Core\bin\Debug\net8.0\01_FrameWork.pdb

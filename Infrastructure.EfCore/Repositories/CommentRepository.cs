@@ -1,4 +1,5 @@
-﻿using Application.Contracts.Comment;
+﻿using _01_FrameWork.Infrastructure;
+using Application.Contracts.Comment;
 using Domain.CommentAgg;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -10,28 +11,19 @@ using System.Threading.Tasks;
 
 namespace Infrastructure.EfCore.Repositories
 {
-    public class CommentRepository:ICommentRepository
+    public class CommentRepository: BaseRepository<long,Comment> ,ICommentRepository
     {
-        private readonly MasterBloggerContext _content;
-        public CommentRepository(MasterBloggerContext context)
+        private MasterBloggerContext _context;
+        public CommentRepository(MasterBloggerContext context) : base(context)
         {
-            _content = context;
+            _context = context;
         }
 
-        public void CreateAndSave(Comment Entity)
-        {
-            _content.Comments.Add(Entity);
-            Save();
-        }
 
-        public Comment Get(long id)
-        {
-            return _content.Comments.FirstOrDefault(x => x.Id == id);
-        }
 
-        public List<CommentViewModel> GetList()
+        List<CommentViewModel> ICommentRepository.GetList()
         {
-            return _content.Comments.Include(x => x.Article).Select(x => new CommentViewModel
+            return _context.Comments.Include(x => x.Article).Select(x => new CommentViewModel
             {
                 Id = x.Id,
                 Name = x.Name,
@@ -39,13 +31,8 @@ namespace Infrastructure.EfCore.Repositories
                 Message = x.Message,
                 Status = x.Status,
                 CreationDate = x.CreationDate.ToString(CultureInfo.InvariantCulture),
-                Article=x.Article.Title
+                Article = x.Article.Title
             }).ToList();
-        }
-
-        public void Save()
-        {
-            _content.SaveChanges();
         }
     }
 }

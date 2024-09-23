@@ -1,4 +1,5 @@
-﻿using Application.Contracts.Article;
+﻿using _01_FrameWork.Infrastructure;
+using Application.Contracts.Article;
 using Domain.ArticleAgg;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -12,15 +13,14 @@ namespace Infrastructure.EfCore.Repositories
 {
 
 
-    public class ArticleRepository: IArticleRepository
+    public class ArticleRepository : BaseRepository<long, Article>, IArticleRepository
     {
         private readonly MasterBloggerContext _context;
-        public ArticleRepository(MasterBloggerContext context)
+
+        public ArticleRepository(MasterBloggerContext context) : base(context)
         {
             _context = context;
         }
-
-
 
         public List<ArticleViewModel> GetList()
         {
@@ -33,27 +33,6 @@ namespace Infrastructure.EfCore.Repositories
                 CreationDate = x.CreationDate.ToString(CultureInfo.InvariantCulture)
             }).ToList();
         }
-
-        public void CreateAndSave(Article entity)
-        {
-            _context.Articles.Add(entity);
-            Save();
-        }
-
-
-        public void Save()
-        {
-            _context.SaveChanges();
-        }
-
-        public bool Exists(string title)
-        {
-            return _context.Articles.Any(x=> x.Title == title);
-        }
-
-        public Article Get(long id)
-        {
-            return _context.Articles.FirstOrDefault(x => x.Id == id);
-        }
     }
 }
+    

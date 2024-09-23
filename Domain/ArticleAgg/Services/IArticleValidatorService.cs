@@ -1,4 +1,5 @@
-﻿using System;
+﻿using _01_FrameWork.Infrastructure;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,7 +21,7 @@ namespace Domain.ArticleAgg.Services
         }
         public void CheckThatThisRecordAlreadyExists(string title)
         {
-            if (_articleRepository.Exists(title)) 
+            if (_articleRepository.Exists(x=> x.Title == title)) 
             {
                 throw new DuplicateWaitObjectException();
             }
