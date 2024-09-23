@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Projects\\MasterBlogger\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|c:\\projects\\masterblogger\\presentation.mvccore\\presentation.mvccore\\pages\\articledetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|solutionrelative:presentation.mvccore\\presentation.mvccore\\pages\\articledetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B9C5E2-E13E-4D65-9176-5910600D2F24}|Infrastructure.Query\\Infrastructure.Query.csproj|c:\\projects\\masterblogger\\infrastructure.query\\articlequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B9C5E2-E13E-4D65-9176-5910600D2F24}|Infrastructure.Query\\Infrastructure.Query.csproj|solutionrelative:infrastructure.query\\articlequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B9C5E2-E13E-4D65-9176-5910600D2F24}|Infrastructure.Query\\Infrastructure.Query.csproj|c:\\projects\\masterblogger\\infrastructure.query\\articlequeryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B9C5E2-E13E-4D65-9176-5910600D2F24}|Infrastructure.Query\\Infrastructure.Query.csproj|solutionrelative:infrastructure.query\\articlequeryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B9C5E2-E13E-4D65-9176-5910600D2F24}|Infrastructure.Query\\Infrastructure.Query.csproj|c:\\projects\\masterblogger\\infrastructure.query\\commentqueryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B9C5E2-E13E-4D65-9176-5910600D2F24}|Infrastructure.Query\\Infrastructure.Query.csproj|solutionrelative:infrastructure.query\\commentqueryview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|c:\\projects\\masterblogger\\presentation.mvccore\\presentation.mvccore\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|solutionrelative:presentation.mvccore\\presentation.mvccore\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|c:\\projects\\masterblogger\\presentation.mvccore\\presentation.mvccore\\areas\\administrator\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|solutionrelative:presentation.mvccore\\presentation.mvccore\\areas\\administrator\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|c:\\projects\\masterblogger\\presentation.mvccore\\presentation.mvccore\\areas\\administrator\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|solutionrelative:presentation.mvccore\\presentation.mvccore\\areas\\administrator\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|c:\\projects\\masterblogger\\presentation.mvccore\\presentation.mvccore\\areas\\administrator\\pages\\commentmanagement\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{863A7DB4-4885-452B-8797-3CBD146B719F}|Presentation.MvcCore\\Presentation.MvcCore\\Presentation.MvcCore.csproj|solutionrelative:presentation.mvccore\\presentation.mvccore\\areas\\administrator\\pages\\commentmanagement\\list.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +78,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticleDetails.cshtml",
+              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Pages\\ArticleDetails.cshtml",
+              "RelativeDocumentMoniker": "Presentation.MvcCore\\Presentation.MvcCore\\Pages\\ArticleDetails.cshtml",
+              "ToolTip": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Pages\\ArticleDetails.cshtml",
+              "RelativeToolTip": "Presentation.MvcCore\\Presentation.MvcCore\\Pages\\ArticleDetails.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABwAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T12:32:51.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticleQueryView.cs",
+              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Infrastructure.Query\\ArticleQueryView.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Query\\ArticleQueryView.cs",
+              "ToolTip": "C:\\Projects\\MasterBlogger\\Infrastructure.Query\\ArticleQueryView.cs",
+              "RelativeToolTip": "Infrastructure.Query\\ArticleQueryView.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:24:02.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "CommentQueryView.cs",
+              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Infrastructure.Query\\CommentQueryView.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Query\\CommentQueryView.cs",
+              "ToolTip": "C:\\Projects\\MasterBlogger\\Infrastructure.Query\\CommentQueryView.cs",
+              "RelativeToolTip": "Infrastructure.Query\\CommentQueryView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:21:35.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presentation.MvcCore\\Presentation.MvcCore\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Presentation.MvcCore\\Presentation.MvcCore\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T12:18:58.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:18:36.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T12:18:33.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticleQuery.cs",
+              "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Infrastructure.Query\\ArticleQuery.cs",
+              "RelativeDocumentMoniker": "Infrastructure.Query\\ArticleQuery.cs",
+              "ToolTip": "C:\\Projects\\MasterBlogger\\Infrastructure.Query\\ArticleQuery.cs",
+              "RelativeToolTip": "Infrastructure.Query\\ArticleQuery.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAwCYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T12:13:33.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "CommentRepository.cs",
               "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Infrastructure.EfCore\\Repositories\\CommentRepository.cs",
               "RelativeDocumentMoniker": "Infrastructure.EfCore\\Repositories\\CommentRepository.cs",
@@ -58,12 +177,11 @@
               "RelativeToolTip": "Infrastructure.EfCore\\Repositories\\CommentRepository.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAuwBwAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T11:49:13.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T11:49:13.042Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "ICommentApplication.cs",
               "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Application.Contracts\\Comment\\ICommentApplication.cs",
               "RelativeDocumentMoniker": "Application.Contracts\\Comment\\ICommentApplication.cs",
@@ -71,12 +189,11 @@
               "RelativeToolTip": "Application.Contracts\\Comment\\ICommentApplication.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T11:36:19.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T11:36:19.526Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "List.cshtml",
               "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\CommentManagement\\List.cshtml",
               "RelativeDocumentMoniker": "Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\CommentManagement\\List.cshtml",
@@ -84,25 +201,24 @@
               "RelativeToolTip": "Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\CommentManagement\\List.cshtml",
               "ViewState": "AQIAACcAAAAAAAAAAAAAADQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-23T11:30:10.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T11:30:10.275Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "List.cshtml.cs",
               "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\CommentManagement\\List.cshtml.cs",
               "RelativeDocumentMoniker": "Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\CommentManagement\\List.cshtml.cs",
               "ToolTip": "C:\\Projects\\MasterBlogger\\Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\CommentManagement\\List.cshtml.cs",
               "RelativeToolTip": "Presentation.MvcCore\\Presentation.MvcCore\\Areas\\Administrator\\Pages\\CommentManagement\\List.cshtml.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwA4AAAAJAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBEAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T11:22:13.019Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Comment.cs",
               "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Domain\\CommentAgg\\Comment.cs",
               "RelativeDocumentMoniker": "Domain\\CommentAgg\\Comment.cs",
@@ -110,12 +226,11 @@
               "RelativeToolTip": "Domain\\CommentAgg\\Comment.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAAwCUAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T10:13:40.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T10:13:40.129Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "CommentAplication.cs",
               "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Application\\CommentAplication.cs",
               "RelativeDocumentMoniker": "Application\\CommentAplication.cs",
@@ -123,12 +238,11 @@
               "RelativeToolTip": "Application\\CommentAplication.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAIwCIAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T09:55:10.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T09:55:10.548Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "CommentViewModel.cs",
               "DocumentMoniker": "C:\\Projects\\MasterBlogger\\Application.Contracts\\Comment\\CommentViewModel.cs",
               "RelativeDocumentMoniker": "Application.Contracts\\Comment\\CommentViewModel.cs",
@@ -136,8 +250,7 @@
               "RelativeToolTip": "Application.Contracts\\Comment\\CommentViewModel.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAxwBAAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T09:48:20.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-23T09:48:20.852Z"
             }
           ]
         }
